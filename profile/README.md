@@ -33,8 +33,6 @@ With **PowerToys**, you gain speed, reduce errors, and complete more tasks every
 
 ![powertoys-dashboard](https://dindon-du-dev.com/wp-content/uploads/2025/10/powertoys.webp)
 
-*Example: **PowerToys** settings dashboard with active modules and shortcut overview.*
-
 ---
 
 ## Key Features of PowerToys
